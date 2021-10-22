@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "gitAZns1204"
+		},
+		"AzureBlobStorage_NS_connectionString": {
+			"value": ""
 		}
 	}
 }
